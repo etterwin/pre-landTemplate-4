@@ -1,0 +1,18 @@
+@media screen and (max-width: 320px) {
+    .caption {
+      font-size: 25px;
+    }
+
+    .info-caption {
+      font-size: 20px;
+    }
+
+    .caption-h2 {
+      font-size: 22px;
+    }
+
+    .btn {
+      font-size: 18px;
+    }
+
+  }

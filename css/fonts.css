@@ -1,0 +1,43 @@
+.wrapper {
+  color: black;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.caption {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.caption-red {
+  color: red;
+}
+
+.info-caption {
+  font-size: 25px;
+}
+
+.info-text {
+  color: gray;
+}
+
+.number-green {
+  color: green;
+}
+
+.caption-h2 {
+  color: red;
+  font-size: 25px;
+}
+
+.contetn-text {
+  color: gray;
+}
+
+.text-red {
+  color: red;
+}
+
+.btn {
+  font-size: 20px;
+  text-transform: uppercase;
+}
